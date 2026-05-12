@@ -1,0 +1,31 @@
+Activity,Description,Rank,Base,Monthly_Users
+Fitness Centers,"Weight rooms, cardio equipment, group fitness classes, personal training, and sports courts available 24/7 on most installations.",1,"Fort Liberty, NC",28400
+Fitness Centers,"Weight rooms, cardio equipment, group fitness classes, personal training, and sports courts available 24/7 on most installations.",2,"Fort Campbell, KY",24100
+Fitness Centers,"Weight rooms, cardio equipment, group fitness classes, personal training, and sports courts available 24/7 on most installations.",3,"Joint Base Lewis-McChord, WA",21800
+Recreation Centers,"Game rooms, big-screen lounges, pool tables, e-sports setups, and community gathering spaces for off-duty relaxation.",1,"Joint Base Pearl Harbor-Hickam, HI",19800
+Recreation Centers,"Game rooms, big-screen lounges, pool tables, e-sports setups, and community gathering spaces for off-duty relaxation.",2,"Fort Bliss, TX",17600
+Recreation Centers,"Game rooms, big-screen lounges, pool tables, e-sports setups, and community gathering spaces for off-duty relaxation.",3,"Camp Pendleton, CA",16900
+Libraries,"Physical and digital book collections, study rooms, computer labs, and e-learning resources for professional development.",1,"Fort Bragg, NC",14200
+Libraries,"Physical and digital book collections, study rooms, computer labs, and e-learning resources for professional development.",2,"Lackland AFB, TX",12900
+Libraries,"Physical and digital book collections, study rooms, computer labs, and e-learning resources for professional development.",3,"Naval Station Norfolk, VA",11700
+Outdoor Recreation,"Equipment rentals (kayaks, bikes, camping gear), guided trips, hiking, fishing, and adventure sports programs.",1,"Joint Base Elmendorf-Richardson, AK",18300
+Outdoor Recreation,"Equipment rentals (kayaks, bikes, camping gear), guided trips, hiking, fishing, and adventure sports programs.",2,"Fort Wainwright, AK",15600
+Outdoor Recreation,"Equipment rentals (kayaks, bikes, camping gear), guided trips, hiking, fishing, and adventure sports programs.",3,"Camp Pendleton, CA",14400
+Bowling Centers,"Lane bowling, cosmic bowling nights, leagues, pro shop services, and snack bars for families and units.",1,"Fort Hood, TX",11200
+Bowling Centers,"Lane bowling, cosmic bowling nights, leagues, pro shop services, and snack bars for families and units.",2,"Fort Carson, CO",9800
+Bowling Centers,"Lane bowling, cosmic bowling nights, leagues, pro shop services, and snack bars for families and units.",3,"Edwards AFB, CA",8700
+Golf Courses,"Full-length and executive courses, driving ranges, pro shop, and lessons at below-market rates for service members.",1,"Joint Base Andrews, MD",7600
+Golf Courses,"Full-length and executive courses, driving ranges, pro shop, and lessons at below-market rates for service members.",2,"Fort Belvoir, VA",7100
+Golf Courses,"Full-length and executive courses, driving ranges, pro shop, and lessons at below-market rates for service members.",3,"Hickam AFB, HI",6500
+Travel/ITT,"Discounted tickets to theme parks, concerts, sporting events, and vacation packages through Information, Tickets & Travel offices.",1,"Camp Foster, Okinawa, Japan",9400
+Travel/ITT,"Discounted tickets to theme parks, concerts, sporting events, and vacation packages through Information, Tickets & Travel offices.",2,"USAG Humphreys, South Korea",8800
+Travel/ITT,"Discounted tickets to theme parks, concerts, sporting events, and vacation packages through Information, Tickets & Travel offices.",3,"Joint Base Pearl Harbor-Hickam, HI",7200
+Arts & Crafts,"Ceramics studios, woodworking shops, auto hobby shops, photography labs, and painting classes.",1,"Fort Leonard Wood, MO",5400
+Arts & Crafts,"Ceramics studios, woodworking shops, auto hobby shops, photography labs, and painting classes.",2,"Fort Jackson, SC",5100
+Arts & Crafts,"Ceramics studios, woodworking shops, auto hobby shops, photography labs, and painting classes.",3,"Quantico, VA",4700
+Aquatics/Pools,"Lap swimming, recreational swim, swim lessons, water aerobics, and lifeguard certification courses.",1,"Camp Pendleton, CA",13100
+Aquatics/Pools,"Lap swimming, recreational swim, swim lessons, water aerobics, and lifeguard certification courses.",2,"Naval Station Norfolk, VA",11600
+Aquatics/Pools,"Lap swimming, recreational swim, swim lessons, water aerobics, and lifeguard certification courses.",3,"Eglin AFB, FL",10800
+Child & Youth Services,"Before/after school care, summer camps, youth sports leagues, and teen centers for military families.",1,"Fort Liberty, NC",17200
+Child & Youth Services,"Before/after school care, summer camps, youth sports leagues, and teen centers for military families.",2,"Fort Campbell, KY",15800
+Child & Youth Services,"Before/after school care, summer camps, youth sports leagues, and teen centers for military families.",3,"Joint Base Lewis-McChord, WA",14300
